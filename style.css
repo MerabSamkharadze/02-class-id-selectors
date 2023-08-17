@@ -4,7 +4,7 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #second {
-  color: blue;
+  color: hsl(219, 100%, 50%);
   font-size: 36px;
 }
 .odd.cooler {
@@ -12,6 +12,6 @@
 }
 #forth {
   font-size: 24px;
-  background-color: lightgreen;
+  background-color: rgb(134, 227, 134);
   font-weight: bold;
 }
